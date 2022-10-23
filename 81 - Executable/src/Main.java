@@ -2,7 +2,7 @@ public class Main {
 
     public static void main(String[] args) {
 //        -----------------------------------------
-//                1. File , Project Structure , Artifacts , (+) , JAR ,  jar from module with dependencies
+//        1. File , Project Structure , Artifacts , (+) , JAR ,  jar from module with dependencies
 //        2. Main Class: select the class containing your main method
 //        3. OK
 //        3. Change output directory to where you want this JAR saved to
@@ -11,7 +11,7 @@ public class Main {
 //
 //        If you want an icon, convert an image to a .ico file
 //        ----------------------------------------------------
-//                1. https://icoconvert.com/ (this is a decent site)
+//        1. https://icoconvert.com/ (this is a decent site)
 //        2. Choose your image (file type my vary)
 //        3. Upload
 //        4. Convert to ICO
@@ -19,7 +19,7 @@ public class Main {
 //
 //        Use Launch4j to create an .exe with custom icon
 //        ----------------------------------------------
-//                1. Install Launch4j http://launch4j.sourceforge.net/
+//        1. Install Launch4j http://launch4j.sourceforge.net/
 //        2. Output file: browse for the output destination and name your file ending with .exe
 //        3. Jar: browse for where you saved your jar or executable jar file
 //        4. (Optional) Icon: browse for your custom icon (must be .ico)
